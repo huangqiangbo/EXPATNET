@@ -89,7 +89,7 @@ for i, img_path in enumerate(img_paths):
 
 fig.tight_layout()
 plt.show()
-plt.savefig('./save-data-food/res50/adv-cut', dpi=400, bbox_inches='tight')
+plt.savefig('./save-data/res50/adv-cut', dpi=400, bbox_inches='tight')
 
 
 
