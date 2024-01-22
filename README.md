@@ -1,6 +1,7 @@
 # EXPATNET
 Code for "EXPATNET: EXPLAINABLE ATTACK FOR HIGH-DEFINITION ADVERSARIAL EXAMPLES" 
 <img src="https://github.com/huangqiangbo/EXPATNET/blob/main/imgs/fig1.png" style="float:left;"/>
+<br>
 Abstract: With the prevalence of deep learning (DL) applications, there is a growing concern regarding the vulnerabilities of DL-based models. The intentional perturbations to clean images can generate adversarial examples (AEs), resulting in undesirable consequences. Previous adversarial attacks solely prioritize attack success rates (ASRs), leading to global divergence of AEs. To fill the niche market, we propose an interpretability-guided localized adversarial attack network called ExpATNet. The ExpATNet transforms the disturbance space from the spatial to a frequency domain and drops features to improve the imperceptibility of AEs. The explainable artificial intelligence (XAI) enables class activation maps (CAM) to guide the attack region, which reduces the attack surface. Extensive experiments on three benchmark datasets show our approach can parameterize perceptually aligned adversaries while achieving state-of-the-art attack performance. 
 
 ## Requirements
@@ -29,7 +30,7 @@ python EXPATNET.py
 
 ## Examples
 <img src="https://github.com/huangqiangbo/EXPATNET/blob/main/imgs/fig2.png" width="600px" style="float:left;"/>
-
+<br>
 Here we offer some experiment results. You can get more results in our paper.
 
 ## 
