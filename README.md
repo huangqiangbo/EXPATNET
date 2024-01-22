@@ -28,7 +28,7 @@ python EXPATNET.py
 ```
 
 ## Examples
-<img src="https://github.com/huangqiangbo/EXPATNET/assets/63629128/b06d14bf-d1bf-49ff-b5d2-80d8ba639583" style="zoom:50%;"/>
+<img src="https://github.com/huangqiangbo/EXPATNET/assets/63629128/b06d14bf-d1bf-49ff-b5d2-80d8ba639583" style="zoom:50%;float:left;"/>
 
 Here we offer some experiment results. You can get more results in our paper.
 
