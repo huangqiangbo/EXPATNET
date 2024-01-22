@@ -29,7 +29,7 @@ python EXPATNET.py
 ```
 
 ## Examples
-<img src="https://github.com/huangqiangbo/EXPATNET/blob/main/imgs/fig2.png" width="600px" style="float:left;"/>
+<img src="https://github.com/huangqiangbo/EXPATNET/blob/main/imgs/fig2.png" width="600px"/>
 <br>
 Here we offer some experiment results. You can get more results in our paper.
 
